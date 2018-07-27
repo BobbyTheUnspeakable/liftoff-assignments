@@ -8,8 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* https://github.com/BobbyTheUnspeakable/liftoff-assignments/blob/master/wireframes001.jpg
+* https://github.com/BobbyTheUnspeakable/liftoff-assignments/blob/master/wireframes002.jpg
+* https://github.com/BobbyTheUnspeakable/liftoff-assignments/blob/master/wireframes003.jpg
+* https://github.com/BobbyTheUnspeakable/liftoff-assignments/blob/master/wireframes004.jpg
+* https://github.com/BobbyTheUnspeakable/liftoff-assignments/blob/master/wireframes005.jpg
+* https://github.com/BobbyTheUnspeakable/liftoff-assignments/blob/master/wireframes006.jpg
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2185109
+https://github.com/BobbyTheUnspeakable/best-campsite
